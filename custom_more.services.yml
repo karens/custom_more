@@ -1,0 +1,5 @@
+services:
+  custom_more.custom_more_manager:
+    class: Drupal\custom_more\CustomMoreManager
+    arguments: []
+
