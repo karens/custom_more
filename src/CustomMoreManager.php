@@ -2,7 +2,6 @@
 
 namespace Drupal\custom_more;
 
-use Drupal\bootstrap\Bootstrap;
 use Drupal\bootstrap\Utility\Element;
 use Drupal\Component\Render\FormattableMarkup;
 
@@ -26,7 +25,7 @@ class CustomMoreManager implements CustomMoreManagerInterface {
    * Markup for the icon.
    */
   public static function icon() {
-    return Bootstrap::glyphicon('chevron-right');
+    return '<span class="icon glyphicon glyphicon-chevron-right"></span>';
   }
 
   /**
