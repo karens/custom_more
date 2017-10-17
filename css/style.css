@@ -1,10 +1,9 @@
 /* Float Read more right */
+.list-inline>li.node-readmore, 
 .node-readmore {
   width: 100%;
   clear: both;
   float: right;
-  display: block;
-  margin-bottom: 1em;
 }
 .node-readmore a {
   text-decoration: none;
