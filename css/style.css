@@ -4,6 +4,7 @@
   width: 100%;
   clear: both;
   float: right;
+  display: block;
 }
 .node-readmore a {
   text-decoration: none;
