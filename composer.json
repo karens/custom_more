@@ -1,0 +1,9 @@
+{
+  "name": "karens/custom_more",
+  "type": "drupal-custom-module",
+  "description": "Custom handling for 'more' links.",
+  "keywords": ["Drupal"],
+  "homepage": "https://github.com/karens/custom_more",
+  "require": {
+  }
+}
