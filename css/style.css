@@ -8,6 +8,8 @@
 }
 .node-readmore a {
   text-decoration: none;
+  display: block;
+  width: 100%;
 }
 .more-icon-link,
 .more-link {
