@@ -2,4 +2,4 @@ name: Custom More Links
 type: module
 description: Custom treatment for "more" links, add icons, optionally make them into buttons,  and align right.
 core: 8.x
-package: Custom
+package: KarenS
